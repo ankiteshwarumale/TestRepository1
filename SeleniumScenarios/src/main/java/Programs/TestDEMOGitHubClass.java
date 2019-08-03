@@ -7,6 +7,7 @@ public class TestDEMOGitHubClass {
 		System.out.println("TestDEMOGitHubClass");
 		System.out.println("2nd edit");
 		System.out.println("3rd edit");
+		System.out.println("Edit in TEST DEMO ECLIPSE");
 	}
 
 }
