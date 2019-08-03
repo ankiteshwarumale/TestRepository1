@@ -6,6 +6,7 @@ public class TestDEMOGitHubClass {
 		// TODO Auto-generated method stub
 		System.out.println("2nd edit");
 		System.out.println("3rd edit");
+		System.out.println("4th edit");
 	}
 
 }
